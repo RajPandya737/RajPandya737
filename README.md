@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently **A High School Studnet**
 
-- 🌱 I’m currently pursuing a degree **in Mechanical Engineering**
+- 🌱 I’m currently pursuing a degree **in Engineering**
 
 - 📫 How to reach me **rajpandya737@gmail.com**
 
