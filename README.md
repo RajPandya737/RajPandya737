@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raj Pandya</h1>
 
-- 🔭 I’m currently **A High School Studnet**
+- 🔭 I’m currently **A University Student**
 
-- 🌱 I’m currently pursuing a degree **in Engineering**
+- 🌱 I’m currently pursuing a degree **in Engineering** at **McMaster University**
 
 - 📫 How to reach me **rajpandya737@gmail.com**
 
